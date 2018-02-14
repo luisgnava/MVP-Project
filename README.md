@@ -18,28 +18,35 @@ Once the project moves into development, the press release can be used as a touc
 -->
 
 ## Heading ##
- > Feel Good Corps
+ > Feel Good Now
 
 ## Sub-Heading ##
  > If you ever feel down or you just need to laugh a little bit, come here.
 
 ## Summary ##
- > This product is specifically pointed for people who is having a rough day, is passing through some difficult moments or just anyone who needs some
+ > This product is specifically made for someone who's having a rough day, is passing through some difficult moments or just anyone who needs something to laugh about.
 
 ## Problem ##
- > I would say maybe this proyect is just for users that want to relieve some stress, maybe some people would appreciate some
+ > I would say maybe this project is just for users that want to relieve some stress, maybe some people would appreciate some relief from everyday life.
 
 ## Solution ##
- > Describe how your product elegantly solves the problem.
+> I decided to make a random quote generator for my MVP project because it sounded easy, nothing too fancy, right?
+But then I realized that maybe I was doing things for the wrong reason.
+It's hard to tell openly, but I have been coping up with depression and anxiety most of my life, and most of these times I was all alone, with nobody to ask for advice and no one to talk to.
+Maybe in these moments you just need some tender words, someone to lend an ear, or maybe just a little encouragement.
+So I decided to make this web page for people like me.
+If it makes just one person smile, I'll know it's all worth it,
+And whoever you are, you are not alone.
+I am here for you, so keep yur head up.
 
 ## Quote from You ##
- > A quote from a spokesperson in your company.
+ > "Do or do not, there is no try" -Master Yoda
 
 ## How to Get Started ##
- > Describe how easy it is to get started.
+ > If I were you, i would start by installing npm and babel, they will make your life much easier just in case you decide to clone this repo (BUT WHY WOULD YOU DO THAT? D:)
 
 ## Customer Quote ##
- > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+ > "Whenever I feel really bad about things in general, I just visit FGN and everything just seems a little bit better, even if it is just for a minute, I appreciate the help" Alejandro Rodríguez
 
 ## Closing and Call to Action ##
- > Wrap it up and give pointers where the reader should go next.
+ > So, to wrap things up, here is where everything just starts to make sense, just bear with this messy code and we will get somewhere, maybe not the place where you expected, but the journey is amazing, so it will all be worthy.
