@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('thumb-1920-442432.jpg');
+  background-repeat: no-repeat;
+  background-size: 1280px 900px ;
+  color: black;
+}
+h1 {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+}

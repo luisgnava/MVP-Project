@@ -1,0 +1,14 @@
+import React from 'react':
+import ReactDOM from 'react-dom';
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+    }
+    // bind ajax requests there
+}
+// create ajax request here
+
+// render components using jsx syntax
+ReactDOM.render(<App/>, document.getElementById('app'));
