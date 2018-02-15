@@ -1,15 +1,14 @@
 var express = require('express');
 var app = express();
 var bodyParser = require ('body-parser');
+var path = require('path');
+app.use(express.static(__dirname + '/../client/dist'));
 
-app.use(express.static(__dirname + '/../client'));
-
-app.get('', function(req, res) {
-  res.status(200);
+app.get('/', function(req, res) {
+res.sendFile(path.join(__dirname + '/../client/index.html'));
 })
-app.post('', function(req, res){
+app.post('/', function(req, res){
   res.status(200);
-
 })
 
 app.listen(3000, function() {
