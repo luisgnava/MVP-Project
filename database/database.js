@@ -4,5 +4,5 @@ var conn = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "gloria",
-  database: ""
+  database: "quotes"
   });

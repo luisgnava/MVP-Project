@@ -18,7 +18,7 @@ Once the project moves into development, the press release can be used as a touc
 -->
 
 ## Heading ##
- > Feel Good Now
+ > Random Quote Gen. 2.0
 
 ## Sub-Heading ##
  > If you ever feel down or you just need to laugh a little bit, come here.
@@ -31,22 +31,16 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Solution ##
 > I decided to make a random quote generator for my MVP project because it sounded easy, nothing too fancy, right?
-But then I realized that maybe I was doing things for the wrong reason.
-It's hard to tell openly, but I have been coping up with depression and anxiety most of my life, and most of these times I was all alone, with nobody to ask for advice and no one to talk to.
-Maybe in these moments you just need some tender words, someone to lend an ear, or maybe just a little encouragement.
-So I decided to make this web page for people like me.
-If it makes just one person smile, I'll know it's all worth it,
-And whoever you are, you are not alone.
-I am here for you, so keep yur head up.
+WRONG! Life is suffering, code is a beautiful and terrible beast.
 
-## Quote from You ##
- > "Do or do not, there is no try" -Master Yoda
+## Quote from You (kind of)##
+ > "HEY IT'S WORKING, yay!!!" Garima Batra, 2018
 
 ## How to Get Started ##
  > If I were you, i would start by installing npm and babel, they will make your life much easier just in case you decide to clone this repo (BUT WHY WOULD YOU DO THAT? D:)
 
 ## Customer Quote ##
- > "Whenever I feel really bad about things in general, I just visit FGN and everything just seems a little bit better, even if it is just for a minute, I appreciate the help" Alejandro Rodríguez
+ > "Whenever I feel really bad about things in general, I just visit FGN and everything just seems a little bit better, even if it is just for a minute, I appreciate the help!" Alejandro Rodríguez
 
 ## Closing and Call to Action ##
  > So, to wrap things up, here is where everything just starts to make sense, just bear with this messy code and we will get somewhere, maybe not the place where you expected, but the journey is amazing, so it will all be worthy.
