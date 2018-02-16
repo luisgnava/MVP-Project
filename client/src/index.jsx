@@ -31,4 +31,3 @@ render() {""
    }
   }
 ReactDOM.render(<App />, document.getElementById('app'));
-UPDATE mysql.user SET Password=kokomo666('[kokomo666]') WHERE User='[root]';

@@ -1,1 +1,0 @@
-/home/hc-25/Documents/MVP-Proyect/server/index.js
